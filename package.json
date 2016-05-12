@@ -1,0 +1,15 @@
+{
+  "name": "ccb-huejs",
+  "version": "1.0.0",
+  "description": "Philips HUE js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ouvigna",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
